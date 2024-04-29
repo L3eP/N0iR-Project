@@ -1,0 +1,12 @@
+NAME="N0iR Project"
+PRETTY_NAME="N0iR Linux"
+ID="N0iR"
+ID_LIKE="arch"
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/L3eP/N0iR-Project"
+DOCUMENTATION_URL="https://github.com/L3eP/N0iR-Projec6/Wiki"
+SUPPORT_URL="https://github.com/L3eP/N0iR-Project"
+BUG_REPORT_URL="https://github.com/L3eP/N0iR-Project/issues"
+PRIVACY_POLICY_URL="https://github.com/L3eP/N0iR-Project"
+LOGO="N0iR"

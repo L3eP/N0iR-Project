@@ -129,3 +129,74 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+
+### N0iR From Here ###
+
+## Drivers Xorg ##
+xorg
+xorg-server
+xf86-input-libinput
+xf86-input-synaptics
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-qxl
+xf86-video-vesa
+xf86-video-vmware
+xorg-xbacklight
+xorg-xclipboard
+xorg-xcalc
+xorg-xdpyinfo
+xorg-xinit
+xorg-xinput
+xorg-xrandr
+xorg-xrdb
+xorg-xvinfo
+xterm
+
+## DE DM ##
+budgie
+budgie-backgrounds
+budgie-control-center
+budgie-desktop-view
+budgie-extras
+budgie-screensaver
+lightdm
+lightdm-gtk-greeter
+
+## Apps ##
+firefox
+kitty
+nemo
+gedit
+
+
+## Extra ##
+# net #
+network-manager-applet
+network-manager-sstp
+networkmanager
+networkmanager-l2tp
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-qt
+networkmanager-qt5
+networkmanager-strongswan
+networkmanager-vpnc
+
+# bt #
+bluez
+bluez-utils
+bluez-cups
+blueman
+
+# audio # 
+pipewire
+pipewire-pulse
+pipewire-jack
+pipewire-alsa
+
+### EOF ###
