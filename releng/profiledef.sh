@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="n0irproject"
+iso_name="n0irProject"
 iso_label="N0iR_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="N0iR Linux <https://github.com/L3eP/N0iR-Project>"
 iso_application="N0iR Linux Live/Rescue DVD"

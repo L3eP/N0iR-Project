@@ -134,6 +134,7 @@ zsh
 ### N0iR From Here ###
 
 ## Drivers Xorg ##
+mesa-utils
 xorg
 xorg-server
 xf86-input-libinput
@@ -154,6 +155,7 @@ xorg-xinput
 xorg-xrandr
 xorg-xrdb
 xorg-xvinfo
+xorg-xkill
 xterm
 
 ## DE DM ##
@@ -174,6 +176,12 @@ gedit
 
 
 ## Extra ##
+libwnck3
+broadcom-wl-dkms
+dnsutils
+nss-mdns
+downgrade
+
 # net #
 network-manager-applet
 network-manager-sstp
